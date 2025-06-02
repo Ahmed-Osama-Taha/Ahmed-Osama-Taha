@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Taha</h1>
-<h3 align="center">Certified Cloud & DevOps Engineer | 2× AWS Certified | Huawei Certified | RHCSA® | CKA®</h3>
+<h3 align="center"Certified Cloud & DevOps Engineer | 2× AWS Certified | CKA® | RHCSA® | Huawei Certified</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmedosamataha">
