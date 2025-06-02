@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Taha</h1>
-<h3 align="center">Certified Cloud & DevOps Engineer | Kubernetes | Terraform | CI/CD Automation</h3>
+<h3 align="center">Certified Cloud & DevOps Engineer | 2× AWS Certified | Huawei Certified | RHCSA® | CKA®</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmedosamataha">
@@ -76,11 +76,7 @@
   </a>
   <a href="https://www.ansible.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/aws/aws-icon-kit/main/default/CloudFormation/Default.svg" alt="cloudformation" width="40" height="40"/>
-  </a>
-
+  </a> 
   <!-- Containers & Orchestration -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -93,9 +89,6 @@
   </a>
 
   <!-- CI/CD -->
-  <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure devops" width="40" height="40"/>
-  </a>
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="githubactions" width="40" height="40"/>
   </a>
@@ -109,25 +102,6 @@
   </a>
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  </a>
-
-  <!-- GitOps & Secrets -->
-  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/argo-icon/color/argo-icon-color.svg" alt="argo cd" width="40" height="40"/>
-  </a>
-  <a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/353625/vault.svg" alt="vault" width="40" height="40"/>
-  </a>
-
-  <!-- Testing & Code Quality -->
-  <a href="https://pytest.org" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/P/pytest-logo-CDB514ED4C-seeklogo.com.png" alt="pytest" width="40" height="40"/>
-  </a>
-  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer">
-    <img src="https://www.sonarsource.com/logos/index/sonarqube-logo.svg" alt="sonarqube" width="40" height="40"/>
-  </a>
-  <a href="https://aquasecurity.github.io/trivy/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/aquasecurity/trivy/raw/main/docs/images/trivy-logo.png" alt="trivy" width="40" height="40"/>
   </a>
 
   <!-- Languages -->
